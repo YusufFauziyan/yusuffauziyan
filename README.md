@@ -13,24 +13,25 @@
 #### 2. SMK Muhammadiyah 1 Sukabumi | COMPUTER NETWORK ENGINERING | Sukabumi
 
 ## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec 2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+#### 1. [PT. Sari Coffe Indonesia](https://www.starbucks.co.id/about-us/career-center/support-center-careers) | Barista | Jakarta `2018 - 2022`
+   - Maintained highest standards of procedure and service to maintain company reputation
+   - Doing daily coffe testing and sampling season beverage, to educate customer about our qulaity and showing our new beverage
+   - Doing briefing before starting work to achieve the desired target
+## Intern:
+#### 1. Rs. Syamsudin SH | Student Intern | Sukabumi `2015`
+   - Install the network using a LAN cable and proxy configuration to other departmens. Work with a team and be guided by a mentor
+
 ---
 
 ### Languages and Tools:
 
-[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/220px-PyCharm_Icon.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="HTML" width="40px" src="https://res.cloudinary.com/dtowni8oi/image/upload/v1655220694/github%20icon/vsocgmsac7oefxoegitu.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="CSS" width="40px" src="https://res.cloudinary.com/dtowni8oi/image/upload/v1655220692/github%20icon/cflf2jy6w7na5rinme0w.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="JavaScript" width="30px" src="https://haryharmonis.files.wordpress.com/2016/11/logo_javascript.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="React Js" width="30px" src="https://res.cloudinary.com/dtowni8oi/image/upload/v1655220671/github%20icon/kmfxbl8qc0ohgvdu6mps.png" />][webdev]
+[<img align="left" alt="React Native" width="30px" src="https://res.cloudinary.com/dtowni8oi/image/upload/v1655220653/github%20icon/i9oqmdv3dtwunri4434i.png" style="padding-right:0px;" />][webdev]
+[<img align="left" alt="Node Js" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Bootstrap" width="30px" src="https://res.cloudinary.com/dtowni8oi/image/upload/v1655220701/github%20icon/oqvpzhrtc95id32ivhie.png" style="padding-right:10px;" />][webdev]
 
 <br />
 <br />
@@ -52,4 +53,4 @@
 
 
 
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+[webdev]: https://github.com/YusufFauziyan/yusuffauziyan
